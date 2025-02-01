@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Khushi-jain05/Khushi-jain0/blob/main/Black%20and%20Yellow%20Web%20Developer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Khushi jain</h1>
  <h3 align="center">A passionate Software Engineer from India</h3>
  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAe/coding-girl.png" alt="coding" align="right" width="400">
